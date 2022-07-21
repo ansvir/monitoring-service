@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  app:
+    container_name: monitoring-service
+    build:
+      context: .
+      dockerfile: app.Dockerfile
+
+  redis:
+    container_name: redis
+    image: "redis:latest"

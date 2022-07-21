@@ -1,0 +1,66 @@
+2022-07-22 01:04:31.382  INFO 26792 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 26792 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:04:31.382  INFO 26792 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:04:31.945  INFO 26792 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:04:31.945  INFO 26792 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:04:31.976  INFO 26792 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:04:33.362  INFO 26792 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.283 seconds (JVM running for 3.176)
+2022-07-22 01:09:13.931  INFO 78092 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 78092 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:09:13.931  INFO 78092 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:09:14.454  INFO 78092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:09:14.454  INFO 78092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:09:14.485  INFO 78092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:09:15.858  INFO 78092 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.233 seconds (JVM running for 3.092)
+2022-07-22 01:11:21.165  INFO 67108 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 67108 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:11:21.165  INFO 67108 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:11:21.681  INFO 67108 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:11:21.681  INFO 67108 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:11:21.712  INFO 67108 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:11:23.136  INFO 67108 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.254 seconds (JVM running for 3.124)
+2022-07-22 01:12:32.268  INFO 77024 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 77024 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:12:32.268  INFO 77024 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:12:32.892  INFO 77024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:12:32.892  INFO 77024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:12:32.907  INFO 77024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:12:34.294  INFO 77024 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.326 seconds (JVM running for 3.211)
+2022-07-22 01:16:19.787  INFO 76884 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 76884 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:16:19.787  INFO 76884 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:16:20.572  INFO 76884 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:16:20.572  INFO 76884 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:16:20.604  INFO 76884 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:16:22.491  INFO 76884 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 3.091 seconds (JVM running for 4.233)
+2022-07-22 01:21:07.616  INFO 70432 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 70432 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:21:07.616  INFO 70432 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:21:08.154  INFO 70432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:21:08.154  INFO 70432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:21:08.169  INFO 70432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:21:09.572  INFO 70432 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.264 seconds (JVM running for 3.181)
+2022-07-22 01:29:07.443  INFO 71312 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 71312 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:29:07.443  INFO 71312 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:29:07.958  INFO 71312 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:29:07.973  INFO 71312 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:29:07.995  INFO 71312 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:29:09.413  INFO 71312 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.266 seconds (JVM running for 3.163)
+2022-07-22 01:31:35.958  INFO 67324 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 67324 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:31:35.958  INFO 67324 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:31:36.528  INFO 67324 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:31:36.528  INFO 67324 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:31:36.559  INFO 67324 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:31:37.977  INFO 67324 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.315 seconds (JVM running for 3.238)
+2022-07-22 01:32:49.316  INFO 47288 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 47288 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:32:49.316  INFO 47288 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:32:49.885  INFO 47288 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:32:49.885  INFO 47288 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:32:49.916  INFO 47288 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:32:51.372  INFO 47288 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.377 seconds (JVM running for 3.301)
+2022-07-22 01:33:41.122  INFO 5096 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 5096 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:33:41.122  INFO 5096 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:33:41.654  INFO 5096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:33:41.654  INFO 5096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:33:41.686  INFO 5096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:33:43.094  INFO 5096 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.314 seconds (JVM running for 3.209)
+2022-07-22 01:35:39.538  INFO 23480 --- [main] c.t.m.MonitoringServiceApplicationTests  : Starting MonitoringServiceApplicationTests using Java 11.0.13 on WR912G72K with PID 23480 (started by svireant in C:\Users\svireant\IdeaProjects\monitoring-service\app)
+2022-07-22 01:35:39.538  INFO 23480 --- [main] c.t.m.MonitoringServiceApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2022-07-22 01:35:40.124  INFO 23480 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-22 01:35:40.124  INFO 23480 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-22 01:35:40.155  INFO 23480 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2022-07-22 01:35:41.625  INFO 23480 --- [main] c.t.m.MonitoringServiceApplicationTests  : Started MonitoringServiceApplicationTests in 2.386 seconds (JVM running for 3.345)

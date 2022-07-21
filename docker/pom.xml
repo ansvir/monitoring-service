@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>monitoring-service-docker</artifactId>
+    <name>${project.artifactId}</name>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>com.tohant</groupId>
+        <artifactId>monitoring-service-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <properties>
+        <app.name>../app/${project.artifactId}</app.name>
+    </properties>
+
+    <build>
+        <outputDirectory>${project.build.directory}/../../dist/docker/</outputDirectory>
+        <resources>
+            <resource>
+                <directory>./</directory>
+                <filtering>true</filtering>
+                <includes>
+                    <include>**/.dockerignore</include>
+                    <include>**/*.yml</include>
+                    <include>**/*.Dockerfile</include>
+                </includes>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <artifactId>maven-resources-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>generate-resources</id>
+                        <goals>
+                            <goal>resources</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
