@@ -14,20 +14,16 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <properties>
-        <app.name>../app/${project.artifactId}</app.name>
-    </properties>
-
     <build>
-        <outputDirectory>${project.build.directory}/../../dist/docker/</outputDirectory>
+        <outputDirectory>${project.build.directory}</outputDirectory>
         <resources>
             <resource>
                 <directory>./</directory>
                 <filtering>true</filtering>
                 <includes>
+                    <include>**/*.Dockerfile</include>
                     <include>**/.dockerignore</include>
                     <include>**/*.yml</include>
-                    <include>**/*.Dockerfile</include>
                 </includes>
             </resource>
         </resources>

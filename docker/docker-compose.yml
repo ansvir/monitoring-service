@@ -6,7 +6,19 @@ services:
     build:
       context: .
       dockerfile: app.Dockerfile
+    ports:
+      - "8080:8080"
+    networks:
+      - net
 
   redis:
     container_name: redis
     image: "redis:latest"
+    ports:
+      - "6379"
+    networks:
+      - net
+
+networks:
+  net:
+    name: net
